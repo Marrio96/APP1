@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="Correo">Mail</string>
+    <string name="Cuenta">numero de compte</string>
+    <string name="Fecha">date de naissance</string>
+    <string name="Horoscopo">Ton horoscope</string>
+    <string name="Ingresar">entrer</string>
+    <string name="Mensaje">quel animal de l\'horoscope chinois tu es. Remplissez les champssuivants pour savoir</string>
+    <string name="Mostrar_edad">ton age est</string>
+    <string name="Nombre">nom</string>
+    <string name="año">anée</string>
+    <string name="buey">boeuf</string>
+    <string name="caballo">cheval</string>
+    <string name="cabra">chévre</string>
+    <string name="cerdo">cochon</string>
+    <string name="conejo">lapin</string>
+    <string name="dia">jour</string>
+    <string name="dragon">dragon</string>
+    <string name="falta1">entrez votre nom</string>
+    <string name="falta2">entrez un nombre de jours compris entre 1 et 30</string>
+    <string name="falta3">entrez un numero de mois compris entre 1 et 12</string>
+    <string name="falta4">entrez un numero de jour compris entre 1936 et</string>
+    <string name="falta5">entrez un numero de compte dix chiffres</string>
+    <string name="falta6">entrez un email valide</string>
+    <string name="gallo">coq</string>
+    <string name="mensaje2">votre horoscope chinois est</string>
+    <string name="mes">mois</string>
+    <string name="mono">singe</string>
+    <string name="perro">chien</string>
+    <string name="rata">Rat</string>
+    <string name="regreso">reviens</string>
+    <string name="serpiente">serpent</string>
+    <string name="tigre">Tigre</string>
+</resources>

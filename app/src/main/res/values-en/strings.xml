@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="Correo">Email</string>
+    <string name="Cuenta">No. count</string>
+    <string name="Fecha">bithday</string>
+    <string name="Ingresar">Input</string>
+    <string name="Mensaje">what animal of the chinese horoscope you are. Fill in the followiing field to know</string>
+    <string name="Nombre">Name</string>
+    <string name="Mostrar_edad">Your old year is</string>
+    <string name="año">Year</string>
+    <string name="mes">Month</string>
+    <string name="regreso">Back</string>
+    <string name="tigre">Tiger</string>
+    <string name="serpiente">sneack</string>
+    <string name="perro">Dog</string>
+    <string name="mono">Monkey</string>
+    <string name="falta1">Input your name</string>
+    <string name="falta2">Input numbre day between 1 and 30</string>
+    <string name="falta3">Inpuet number month between 1 and 12</string>
+    <string name="dia">Day</string>
+    <string name="buey">Ox</string>
+    <string name="caballo">Horse</string>
+    <string name="Horoscopo">your horoscope</string>
+    <string name="cabra">goat</string>
+    <string name="cerdo">Pig</string>
+    <string name="conejo">Rabbit</string>
+    <string name="dragon">Dragon</string>
+    <string name="falta4">"Input number year between 1936 and "</string>
+    <string name="falta5">Input number account of 10 digits</string>
+    <string name="falta6">Input valid email</string>
+    <string name="gallo">Rooster</string>
+    <string name="mensaje2">your chinese horoscope is</string>
+    <string name="rata">Rat</string>
+</resources>

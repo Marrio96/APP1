@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Horoscopo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="Cuenta">No. cuenta</string>
+
+    <string name="Correo">Correo</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Mensaje">¿Qué animal del horoscopo chino eres?. Llena los siguientes campos para saberlo.</string>
+    <string name="falta1">Ingrese nombre </string>
+
+    <string name="falta2">"ingrese un numero de dia entre 1 y 30 "</string>
+    <string name="falta3">"ingrese numero de mes entre 1 y 12 "</string>
+    <string name="falta4">"ingrese un numero de año entre 1936 y "</string>
+
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="año">Año</string>
+
+    <string name="falta5">Ingrese un numero de cuenta de 10 digitos</string>
+    <string name="falta6">Ingrese Correo electronico valido</string>
+    <string name="regreso">Regresar</string>
+
+    <string name="mensaje2">Tu horoscopo chino es:</string>
+    <string name="Mostrar_edad">Tu edad es: </string>
+    <string name="Horoscopo">Tu horoscopo</string>
+    //Nombre de horoscopo
+    <string name="rata">Rata</string>
+    <string name="buey">Buey</string>
+    <string name="tigre">Tigre</string>
+    <string name="conejo">Conejo</string>
+    <string name="dragon">Dragon</string>
+    <string name="serpiente">Serpiente</string>
+    <string name="caballo">Caballo</string>
+    <string name="cabra">Cabra</string>
+    <string name="mono">Mono</string>
+    <string name="gallo">Gallo</string>
+    <string name="perro">Perro</string>
+    <string name="cerdo">Cerdo</string>
+
+
+
+</resources>
